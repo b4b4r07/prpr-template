@@ -16,6 +16,8 @@ GEM
       prpr
     prpr-mention_comment (0.1.1)
       prpr
+    prpr-review_label (0.1.1)
+      prpr
     prpr-slack (0.1.1)
       prpr
       slack-notifier
@@ -39,7 +41,8 @@ DEPENDENCIES
   prpr
   prpr-checklist
   prpr-mention_comment
+  prpr-review_label
   prpr-slack
 
 BUNDLED WITH
-   1.10.6
+   1.11.2
